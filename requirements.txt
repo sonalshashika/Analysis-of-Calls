@@ -1,7 +1,7 @@
-streamlit
-pandas
-pdfplumber
-matplotlib
-python-docx
-xlsxwriter
-openpyxl
+streamlit==1.66.1
+pandas==3.1.0
+pdfplumber==0.11.10
+matplotlib==3.11.2
+python-docx==1.2.0
+xlsxwriter==3.3.0
+openpyxl==3.1.5
