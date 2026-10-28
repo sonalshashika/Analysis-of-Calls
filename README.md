@@ -4,12 +4,12 @@ This tool is designed to analyze call center reports, specifically daily perform
 
 ## Features
 - KPI Dashboard
-- - Hourly Analysis
-  - - Service-wise breakdown
-    - - Erlang Staffing Model for Agent Requirements
-      - - CEO Summary Generation (Export to Word)
-        - - Universal Exports (Excel, PNG)
+- Hourly Analysis
+- Service-wise breakdown
+- Erlang Staffing Model for Agent Requirements
+- CEO Summary Generation (Export to Word)
+- Universal Exports (Excel, PNG)
          
-          - ## Installation
-          - 1. Install dependencies: `pip install -r requirements.txt`
-            2. 2. Run the app: `streamlit run app.py`
+## Installation
+1. Install dependencies: `pip install -r requirements.txt`
+2. Run the app: `streamlit run app.py`
